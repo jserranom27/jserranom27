@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/jserranom27/jserranom27/blob/main/1.png" width="800"/>
+  <img decoding="async" src="https://github.com/jserranom27/jserranom27/blob/main/1.png" width="1584" height="396"/>
 </div>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-serrano-mendez/)
 
@@ -52,15 +53,6 @@ Apasionado de la tecnología y disfrutando de una transición laboral al Data Sc
 <!-- Bases de Datos -->
 ![MySQL](https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white)
 
-    <!-- Herramientas -->
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-
-    <!-- Bases de Datos -->
-    <img src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+   
 </div>
 
