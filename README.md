@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/jserranom27/jserranom27/blob/main/1.png" width="1584" height="396"/>
+  <img decoding="async" src="https://github.com/jserranom27/jserranom27/blob/main/2.1.png" width="1584" height="380"/>
 </div>
 
 
